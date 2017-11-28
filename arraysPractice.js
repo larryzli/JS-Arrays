@@ -277,7 +277,6 @@ Loop through your devMountainEmployees until you find cahlan, then remove him fr
 
 /*A very clean way to pass around large LISTS (arrays) of COLLECTIONS (objects)
 of Data is to have an Array full of objects. */
-
 //Create an empty array called users.
 
   //Code Here
